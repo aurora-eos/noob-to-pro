@@ -1,3 +1,6 @@
+/*
+题目要求：输入车速和限速。若超速比例不低于50%，输出"Exceed X%. License Revoked"；若不低于10%，输出"Exceed X%. Ticket 200"；否则输出"OK"（X为超速百分比取整）。
+*/
 #include <stdio.h>
 
 int main() {
@@ -14,3 +17,7 @@ int main() {
 
     return 0;
 }
+/*
+运行结果（输入：120 100）
+Exceed 20%. Ticket 200
+*/
