@@ -1,0 +1,25 @@
+{
+  "project": "Clawd Sticker Studio",
+  "version": "1.0.0",
+  "format": "GIF89a",
+  "canvas": [96, 96],
+  "frames": 16,
+  "frame_duration_ms": 110,
+  "loop": "infinite",
+  "background": "transparent",
+  "scale": "nearest-neighbor",
+  "stickers": [
+    {"id":"wave","name_zh":"挥手","name_en":"Hi"},
+    {"id":"yay","name_zh":"庆祝","name_en":"Yay"},
+    {"id":"love","name_zh":"爱心","name_en":"Love"},
+    {"id":"typing","name_zh":"敲代码","name_en":"Typing"},
+    {"id":"think","name_zh":"思考","name_en":"Thinking"},
+    {"id":"sleep","name_zh":"睡觉","name_en":"Sleep"},
+    {"id":"cry","name_zh":"哭哭","name_en":"Cry"},
+    {"id":"angry","name_zh":"生气","name_en":"Angry"},
+    {"id":"wow","name_zh":"震惊","name_en":"Wow"},
+    {"id":"coffee","name_zh":"咖啡","name_en":"Coffee"},
+    {"id":"dance","name_zh":"跳舞","name_en":"Dance"},
+    {"id":"hug","name_zh":"抱抱","name_en":"Hug"}
+  ]
+}
